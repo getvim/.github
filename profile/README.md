@@ -44,3 +44,11 @@ The apps showcases the following features:
 * [App Basic Template]() - With Authentication
 * [Canvas Demo App](https://github.com/getvim/vim-canvas-demo-app) - Detailed Read/Write example
 * [AI Scribe]() - A Sample Encounter Transcribing with Encounter Write example
+
+
+# Contributing
+* How can I submit an improvement?
+    * Improvements are always welcomed! 🥳 Open a PR with a proper description and we'll review it as soon as possible
+
+* Spot a bug 🕷 ?
+    * We welcome code changes that improve the apps or fix a problem. Please make sure to follow all best practices and open an "Issue" and we'll review it as soon as possible.
