@@ -23,7 +23,14 @@
 
 ## The Vim Canvas™️ Developer Platform
 
-Vim is the middleware platform for healthcare. Vim Canvas™️ is a self-service platform that empowers application developers to embed their application into Electronic Health Record (EHR) workflows, resulting in a streamlined and low-friction experience for end users. With Vim, you can deploy your applications on top of Vim Connect - Vim's in-EHR connectivity layer - accelerating time to market at reduced cost and improved flexibility. You can leverage Vim's platform to engage with a growing network of 10K+ provider organizations and 15M+ patients.
+Vim is the middleware platform for healthcare. Vim Canvas™️ is a self-service platform that empowers application developers to embed their application into Electronic Health Record (EHR) workflows, resulting in a streamlined and low-friction experience for end users. With Vim, you can deploy your applications on top of Vim Connect - Vim's in-EHR connectivity layer - accelerating time to market at reduced cost and improved flexibility.
+
+## The Vim Network
+Our platform empowers you to connect and engage with a robust and growing network of clinics, Vim Connect users and patients:
+
+* **Clinics**: 10,800 (ranging from small individual practices to large group organizations)
+* **Vim Connect Users**: 50,780 (including providers, admin users, and more)
+* **Patients Detected**: 15 million+
 
 ### Vim’s key capabilities
 
