@@ -1,3 +1,5 @@
+![Vim SDK](./vim-sdk-banner.png 'Seamlessly Power Your Apps With Vim Connect')
+
 # 👋 Hello Vim Developers!
 
 ## The Vim Canvas™️ Developer Platform
@@ -19,9 +21,13 @@ Vim is the middleware platform for healthcare. Vim Canvas™️ is a self-servic
 - Sample applications can be found here, in the [Vim Examples GitHub](https://github.com/getvim) organization.
 
 # Quick Links
-* [Vim Canvas™️ Developer Platform](https://getvim.com/vim-canvas-developer-platform/)
-* [Vim Canvas™️ Docs](https://docs.getvim.com/)
-* [VimOS.js Canvas™️ SDK](https://www.npmjs.com/package/vim-os-js-browser)
+1.  [Vim](https://getvim.com/)
+1.  [Docs](https://docs.getvim.com/)
+1.  [Code samples](https://github.com/getvim)
+1.  [Video](https://getvim.com/vim-canvas-developer-platform-on-demand/)
+1.  [Register](https://getvim.com/vim-canvas-developer-platform/)
+1.  [Blog](https://getvim.com/blog/)
+1.  [Dev updates](https://docs.getvim.com/change-log/)
 
 # Repo Overview 😎
 
